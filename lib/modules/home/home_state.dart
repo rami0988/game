@@ -1,0 +1,4 @@
+// Cubit state
+class HomeState {
+
+}
